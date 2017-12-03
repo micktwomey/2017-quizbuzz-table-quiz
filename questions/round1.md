@@ -20,7 +20,7 @@ theme: Zurich, 4
 
 ---
 
-# Name what new framework iOS 11 introduced that allows you to create Augmented Reality applications?
+# Name the new framework iOS 11 introduced that allows you to create Augmented Reality applications?
 
 ---
 

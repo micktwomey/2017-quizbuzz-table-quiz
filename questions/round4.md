@@ -40,7 +40,7 @@ theme: Zurich, 4
 
 ---
 
-# Bitcoin recently crossed the $10,000 mark, in which year did it cross the $1000?
+# Bitcoin recently crossed the $10,000 mark, in which year did it cross the $1000 mark?
 
 
 

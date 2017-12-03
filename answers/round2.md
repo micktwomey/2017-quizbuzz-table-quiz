@@ -40,11 +40,10 @@ theme: Zurich, 4
 
 ---
 
-# The LEGO set titled “Women in Space” is dedicated to famous women who have contributed to space travel. Can you name them?
+# The LEGO set titled “Women in Space” is dedicated to famous women who have contributed to space travel. Can you name them? (1pt each)
 ![inline fit](lego-women-nasa-redacted.jpg)
 
-## Nancy Grace Roman, Margaret Hamilton, Sally Ride & Mae Jemison
-![inline fit](lego-women-nasa.jpg)
+## Nancy Grace Roman, Margaret Hamilton, Mae Jemison & Sally Ride
 
 ---
 

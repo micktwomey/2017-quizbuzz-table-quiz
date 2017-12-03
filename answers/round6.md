@@ -4,7 +4,7 @@ theme: Zurich, 4
 
 ---
 
-# Tie Breakers
+# Tie Breaker
 
 
 
@@ -16,8 +16,8 @@ theme: Zurich, 4
 
 ---
 
-# Countdown
-![](https://www.youtube.com/watch?v=e32kaa9TzeE)
+# 30 seconds!
+![](https://youtu.be/49UakIHb1yI?t=6s)
 
 
 

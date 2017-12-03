@@ -24,7 +24,7 @@ theme: Zurich
 
 ---
 
-# Name what new framework iOS 11 introduced that allows you to create Augmented Reality applications?
+# Name the new framework iOS 11 introduced that allows you to create Augmented Reality applications?
 ## ARKit
 
 ---
@@ -84,10 +84,9 @@ theme: Zurich
 
 ---
 
-# The LEGO set titled “Women in Space” is dedicated to famous women who have contributed to space travel. Can you name them?
+# The LEGO set titled “Women in Space” is dedicated to famous women who have contributed to space travel. Can you name them? (1pt each)
 ![inline fit](lego-women-nasa-redacted.jpg)
-## Nancy Grace Roman, Margaret Hamilton, Sally Ride & Mae Jemison
-![inline fit](lego-women-nasa.jpg)
+## Nancy Grace Roman, Margaret Hamilton, Mae Jemison & Sally Ride
 
 ---
 
@@ -120,8 +119,8 @@ theme: Zurich
 
 ---
 
-# Teforia is an IoT “Tea infusion device” aiming to “elevate the tea experience”. How much did it cost before the company’s shutdown?
-## $1000 ($200 also acceptable)
+## Teforia is an IoT “Tea infusion device” aiming to “elevate the tea experience”. How much did it cost before the company’s shutdown?
+### $1000 ($200 also acceptable)
 
 ---
 
@@ -205,7 +204,7 @@ theme: Zurich
 
 ---
 
-# Bitcoin recently crossed the $10,000 mark, in which year did it cross the $1000?
+# Bitcoin recently crossed the $10,000 mark, in which year did it cross the $1000 mark?
 ## 2013
 
 ---
@@ -215,7 +214,7 @@ theme: Zurich
 
 ---
 
-# Tie Breakers
+# Tie Breaker
 
 ---
 
@@ -224,8 +223,9 @@ theme: Zurich
 
 ---
 
-# Countdown
-![](https://www.youtube.com/watch?v=e32kaa9TzeE)
+# 30 seconds!
+
+![](https://youtu.be/49UakIHb1yI?t=6s)
 
 ---
 

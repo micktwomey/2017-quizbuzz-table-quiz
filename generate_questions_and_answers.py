@@ -76,7 +76,7 @@ def parse(buffer):
 def split_into_rounds(questions_and_answers, round_length=10):
     round = []
     for i, question_and_answer in enumerate(questions_and_answers):
-        if (i % round_length == 0 and round) or question_and_answer.question.strip() == '# Tie Breakers':
+        if (i % round_length == 0 and round) or question_and_answer.question.strip() == '# Tie Breaker':
             yield round
             round = []
         round.append(question_and_answer)

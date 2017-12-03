@@ -16,9 +16,9 @@ theme: Zurich, 4
 
 ---
 
-# Teforia is an IoT “Tea infusion device” aiming to “elevate the tea experience”. How much did it cost before the company’s shutdown?
+## Teforia is an IoT “Tea infusion device” aiming to “elevate the tea experience”. How much did it cost before the company’s shutdown?
 
-## $1000 ($200 also acceptable)
+### $1000 ($200 also acceptable)
 
 ---
 
