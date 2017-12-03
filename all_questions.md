@@ -195,12 +195,32 @@ theme: Zurich
 
 ---
 
+## In 2017, press reported an interstellar object passing through the solar system, reminiscent of the one in the Hugu winning novel called “Rendevouz with Rama”. Who was the author of this book?
+### Arthur C Clarke
+
+---
+
+## What was the name of the Japanese Pop star who was chosen to greet Donald Trump on his Japanese visit?
+### Piko Taro of PPAP (Pen Pinapple Apple Pen) fame
+
+---
+
+# Bitcoin recently crossed the $10,000 mark, in which year did it cross the $1000?
+## 2013
+
+---
+
+# Who invested in BitCoin after famously suing Facebook and are now dubbed “Bitcoin Billionaires”?
+## Tyler and Cameron Winklevoss AKA Winklevoss twins
+
+---
+
 # Tie Breakers
 
 ---
 
-# TODO
-## TODO
+# How long is a parsec in kilometres? (Nearest answer to one written wins!)
+## 31 trillion km
 
 ---
 
@@ -208,16 +228,5 @@ theme: Zurich
 ![](https://www.youtube.com/watch?v=e32kaa9TzeE)
 
 ---
-
-# TODO
-## TODO
-
----
-
-# Countdown
-![](https://www.youtube.com/watch?v=e32kaa9TzeE)
-
----
-
 
 # Fin

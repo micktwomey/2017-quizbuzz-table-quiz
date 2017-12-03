@@ -30,6 +30,18 @@ theme: Zurich, 4
 
 # What’s the starting retail price (in US$) for Tesla’s electric Semi truck?
 
+---
+
+## In 2017, press reported an interstellar object passing through the solar system, reminiscent of the one in the Hugu winning novel called “Rendevouz with Rama”. Who was the author of this book?
+
+---
+
+## What was the name of the Japanese Pop star who was chosen to greet Donald Trump on his Japanese visit?
+
+---
+
+# Bitcoin recently crossed the $10,000 mark, in which year did it cross the $1000?
+
 
 
 ---

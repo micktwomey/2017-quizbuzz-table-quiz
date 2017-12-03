@@ -4,9 +4,15 @@ theme: Zurich, 4
 
 ---
 
-# TODO
+# Tie Breakers
 
-## TODO
+
+
+---
+
+# How long is a parsec in kilometres? (Nearest answer to one written wins!)
+
+## 31 trillion km
 
 ---
 

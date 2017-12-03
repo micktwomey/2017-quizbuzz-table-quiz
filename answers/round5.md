@@ -4,22 +4,9 @@ theme: Zurich, 4
 
 ---
 
-# Tie Breakers
+# Who invested in BitCoin after famously suing Facebook and are now dubbed “Bitcoin Billionaires”?
 
-
-
----
-
-# TODO
-
-## TODO
-
----
-
-# Countdown
-![](https://www.youtube.com/watch?v=e32kaa9TzeE)
-
-
+## Tyler and Cameron Winklevoss AKA Winklevoss twins
 
 
 
