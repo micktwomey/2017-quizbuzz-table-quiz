@@ -4,34 +4,22 @@ theme: Zurich, 4
 
 ---
 
-# Who won the 2016 Nobel Prize for Literature?
+# Tie Breakers
 
-## Bob Dylan
 
----
-
-# What does the Flosstime do?
-
-## It's a smart floss dispenser
-![](https://www.youtube.com/watch?v=VeJX3jU0woQ)
 
 ---
 
-# Who Said this: "The best way to predict the future is to invent it"
+# TODO
 
-## Alan Kay
-
----
-
-# Who invented Clojure?
-
-## Rich Hickey
+## TODO
 
 ---
 
-# What is notable about the Mirai botnet attack on 21st October?
+# Countdown
+![](https://www.youtube.com/watch?v=e32kaa9TzeE)
 
-## The scale and the large number of IoT devices used, mostly web cameras
+
 
 
 

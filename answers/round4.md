@@ -4,72 +4,45 @@ theme: Zurich, 4
 
 ---
 
-# Name the second longest river in Ireland?
+# Penicillin was discovered in 1928 by which Scottish scientist?
 
-## Barrow
-
----
-
-# What does PPAP stand for?
-
-## Pen-Pineapple-Apple-Pen
-![](ppap.gif)
+## Sir Alexander Fleming
 
 ---
 
-# In July of this year the final what was made by Japanese manufacturer Funai?
+# The Great Red Spot is a gigantic storm located on which planet in our solar system?
 
-## Video cassette recorder
-![](video.gif)
-
----
-
-# What is #Mannequinchallenge?
-
-## The Mannequin Challenge is a viral Internet video trend where people remain frozen in action like mannequins while a moving camera films them.
-![](https://www.youtube.com/watch?v=PxUzHrqeCxY)
+## Jupiter
 
 ---
 
-# Who does Millie Bobby Brown play in the TV series Stranger Things?
+# Who developed and patented the electrical telegraph in the United States in 1837?
 
-## Eleven
-![](eleven.gif)
-
----
-
-# What was the highest grossing film of 2016 (so far)
-
-## Captain America: Civil War
-![](civilwar.gif)
+## Samuel Morse
 
 ---
 
-# What was invented in a New Jersey diner by Rob Pike and Ken Thompson?
+# Who founded SpaceX?
 
-## UTF-8 on a placemat
-![](utf8_diner.jpg)
-
----
-
-# What game was Norway’s Prime Minister, Erna Solberg, caught playing in parliament?
-
-## Pokémon GO
-![](norway_pm.jpg)
+## Elon Musk
 
 ---
 
-# Samsung recently pushed out an unusual software update for one of their phones, what does it do?
+# What is the latest release of Firefox by Mozilla called?
 
-## Update for the Galaxy Note 7, completely disabling the phone
-![](note7.gif)
+## Firefox Quantum
 
 ---
 
-# In the game Overwatch, what is the characer Mei’s blaster do?
+# The world's only particle accelerator dedicated to art was recently switched on at which museum?
 
-## Mei’s blaster unleashes a concentrated, short-range stream of frost that damages, slows, and ultimately freezes enemies in place.
-![](intro-video.mp4)
+## Louvre, Paris, France
+
+---
+
+# What’s the starting retail price (in US$) for Tesla’s electric Semi truck?
+
+## US$150,000.00
 
 
 

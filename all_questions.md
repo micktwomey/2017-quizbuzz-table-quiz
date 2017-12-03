@@ -84,171 +84,114 @@ theme: Zurich
 
 ---
 
-# What is the latest Android OS name? Bonus: And the latest version number?
-## Nougat & 7.0
+# The LEGO set titled “Women in Space” is dedicated to famous women who have contributed to space travel. Can you name them?
+![inline fit](lego-women-nasa-redacted.jpg)
+## Nancy Grace Roman, Margaret Hamilton, Sally Ride & Mae Jemison
+![inline fit](lego-women-nasa.jpg)
 
 ---
 
-# What's next? 9162 – 1629 – 6291 – XXXX
-## 2916
+# In Star Wars Han Solo infamously did the Kessel Run in 12 parsecs. How long is a parsec?
+1. 2.45 light years
+2. 3.26 light years
+3. 4.78 light years
+
+## 2. 3.26 light years (making the Kessel run 39.12 light years)
 
 ---
 
-# When was Nintendo established and what did they make?
-## 1889 & Playing cards
-![](marioworld.gif)
+# In what year did Edmund Hilary and Tenzing Norgay reach the summit of Everest for the first time?
+## 1953
 
 ---
 
-# A crystal anniversary celebrates how many years?
-## 15
+# What project won The Nobel Prize in Physics 2017? (Bonus 2pts for the full name)
+## LIGO: Laser Interferometer Gravitational-Wave Observatory
 
 ---
 
-# What is Homer Simpson's brother's name?
-## Herb Powell
-![](herb.gif)
-
+# What movie does the following quote come from "Gentlemen, you can't fight in here. This is the War Room!"?
+## Dr Strangelove
 
 ---
 
-# True or false? DNA is an abbreviation for ‘Deoxyribonucleic acid’.
-## True
+## Which film star is credited with inventing a frequency hopping solution to torpedo jamming in WWII, which is now critical to wireless communications?
+### Hedy Lamarr
 
 ---
 
-# What does the TweetPee do?
-## Exactly what you feared
-![](tweetpee.jpg)
+# Teforia is an IoT “Tea infusion device” aiming to “elevate the tea experience”. How much did it cost before the company’s shutdown?
+## $1000 ($200 also acceptable)
 
 ---
 
-# Who is Mr. Spock's father?
-## Sarek
-![](sarek.gif)
+# 1024 Gigabytes is equal to one what?
+## Terabyte
 
 ---
 
-# How Long did it take Mark Rittman to make a cup of tea with his new IoT kettle?
-## 11 hours
-![fit](smart-kettle.png)
+# In our solar system which two planets rotate clockwise?
+## Venus & Uranus
 
 ---
 
-# Complete this line: "Never gonna give you up, "
-# " never gonna let you down"
-![](rick.gif)
+# Nintendo is a consumer electronics and video game company founded in what country?
+# Japan
 
 ---
 
-# What science fiction writer wrote the three laws of robotics?
-## Isaac Asimov
+# CERN launched the very first website in what year?
+## 1990
 
 ---
 
-## Gordon Moore, Vinton Cerf and Robert Khan have previously received the US Presidential Medal of Freedom for their contributions to computing. Can you name the two recipients this year?
-### Margaret Hamilton & Grace Hopper
-![](mhh-apollo1.png.jpeg)
+## What is name of the world’s largest and most powerful particle accelerator?
+### The Large Hadron Collider
 
 ---
 
-# Why is Ben Affleck sad?
-
-### During an interview with Affleck and Cavill for Batman vs Superman, the interviewer asked them how they feel about the mixed to negative reviews from critics the film has received so far.
-![](sadben.gif)
+# What is the name given to an ancient analog computer that was discovered by divers off a Greek island in 1900?
+### Antikythera mechanism
 
 ---
 
-## The space probe Cassini started sending back pictures of Saturn. What is notable about the cloud formation at the north pole of Saturn?
-### It’s hexagon shape
-![fit](saturn.jpg)
+## The first person shooter video game Doom was first released in what year?
+### 1993
 
 ---
 
-# Name the second longest river in Ireland?
-## Barrow
+# Penicillin was discovered in 1928 by which Scottish scientist?
+## Sir Alexander Fleming
 
 ---
 
-# What does PPAP stand for?
-## Pen-Pineapple-Apple-Pen
-![](ppap.gif)
+# The Great Red Spot is a gigantic storm located on which planet in our solar system?
+## Jupiter
 
 ---
 
-# In July of this year the final what was made by Japanese manufacturer Funai?
-## Video cassette recorder
-![](video.gif)
+# Who developed and patented the electrical telegraph in the United States in 1837?
+## Samuel Morse
 
 ---
 
-# What is #Mannequinchallenge?
-## The Mannequin Challenge is a viral Internet video trend where people remain frozen in action like mannequins while a moving camera films them.
-![](https://www.youtube.com/watch?v=PxUzHrqeCxY)
+# Who founded SpaceX?
+## Elon Musk
 
 ---
 
-# Who does Millie Bobby Brown play in the TV series Stranger Things?
-## Eleven
-![](eleven.gif)
+# What is the latest release of Firefox by Mozilla called?
+## Firefox Quantum
 
 ---
 
-# What was the highest grossing film of 2016 (so far)
-## Captain America: Civil War
-![](civilwar.gif)
+# The world's only particle accelerator dedicated to art was recently switched on at which museum?
+## Louvre, Paris, France
 
 ---
 
-# What was invented in a New Jersey diner by Rob Pike and Ken Thompson?
-## UTF-8 on a placemat
-![](utf8_diner.jpg)
-
----
-
-# What game was Norway’s Prime Minister, Erna Solberg, caught playing in parliament?
-## Pokémon GO
-![](norway_pm.jpg)
-
----
-
-# Samsung recently pushed out an unusual software update for one of their phones, what does it do?
-## Update for the Galaxy Note 7, completely disabling the phone
-![](note7.gif)
-
----
-
-# In the game Overwatch, what is the characer Mei’s blaster do?
-## Mei’s blaster unleashes a concentrated, short-range stream of frost that damages, slows, and ultimately freezes enemies in place.
-![](intro-video.mp4)
-
----
-
-# Who won the 2016 Nobel Prize for Literature?
-## Bob Dylan
-
----
-
-# What does the Flosstime do?
-## It's a smart floss dispenser
-![](https://www.youtube.com/watch?v=VeJX3jU0woQ)
-
-
----
-
-# Who Said this: "The best way to predict the future is to invent it"
-
-## Alan Kay
-
----
-
-# Who invented Clojure?
-## Rich Hickey
-
----
-
-# What is notable about the Mirai botnet attack on 21st October?
-## The scale and the large number of IoT devices used, mostly web cameras
+# What’s the starting retail price (in US$) for Tesla’s electric Semi truck?
+## US$150,000.00
 
 ---
 
@@ -256,8 +199,8 @@ theme: Zurich
 
 ---
 
-# How many Raspberry Pis have been sold as of September 2016?
-## 10 million
+# TODO
+## TODO
 
 ---
 
@@ -266,8 +209,8 @@ theme: Zurich
 
 ---
 
-## The metre was originally defined as what fraction of the distance between the north pole and the equator?
-### One ten millionth of the distance between the north pole and equator.
+# TODO
+## TODO
 
 ---
 

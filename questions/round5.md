@@ -4,23 +4,16 @@ theme: Zurich, 4
 
 ---
 
-# Who won the 2016 Nobel Prize for Literature?
+# Tie Breakers
 
 ---
 
-# What does the Flosstime do?
+# TODO
 
 ---
 
-# Who Said this: "The best way to predict the future is to invent it"
-
----
-
-# Who invented Clojure?
-
----
-
-# What is notable about the Mirai botnet attack on 21st October?
+# Countdown
+![](https://www.youtube.com/watch?v=e32kaa9TzeE)
 
 
 

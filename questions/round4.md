@@ -4,43 +4,31 @@ theme: Zurich, 4
 
 ---
 
-# Name the second longest river in Ireland?
+# Penicillin was discovered in 1928 by which Scottish scientist?
 
 ---
 
-# What does PPAP stand for?
+# The Great Red Spot is a gigantic storm located on which planet in our solar system?
 
 ---
 
-# In July of this year the final what was made by Japanese manufacturer Funai?
+# Who developed and patented the electrical telegraph in the United States in 1837?
 
 ---
 
-# What is #Mannequinchallenge?
+# Who founded SpaceX?
 
 ---
 
-# Who does Millie Bobby Brown play in the TV series Stranger Things?
+# What is the latest release of Firefox by Mozilla called?
 
 ---
 
-# What was the highest grossing film of 2016 (so far)
+# The world's only particle accelerator dedicated to art was recently switched on at which museum?
 
 ---
 
-# What was invented in a New Jersey diner by Rob Pike and Ken Thompson?
-
----
-
-# What game was Norway’s Prime Minister, Erna Solberg, caught playing in parliament?
-
----
-
-# Samsung recently pushed out an unusual software update for one of their phones, what does it do?
-
----
-
-# In the game Overwatch, what is the characer Mei’s blaster do?
+# What’s the starting retail price (in US$) for Tesla’s electric Semi truck?
 
 
 

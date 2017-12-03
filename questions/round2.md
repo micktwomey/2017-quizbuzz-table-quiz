@@ -4,43 +4,47 @@ theme: Zurich, 4
 
 ---
 
-# What does WaSP stand for?
+# Name Simon Pegg's co-star from the movies Shawn of the Dead, Hot Fuzz and The World's End?
 
 ---
 
-# What does the Juicero do? How much does it cost?
+# Name the strongest hurricane to hit Ireland in 50 years
 
 ---
 
-# What is the worst case complexity of Timsort in Big O Notation? Who is it Named After?
+# What Irish nobel laureate fought in the French resistance during WWII?
 
 ---
 
-## Mary's mum has four children. The first child is called April. The second May. The third June. What is the name of the fourth child?
+## Within the Matrix, what was Neo's name?
 
 ---
 
-## Name the utility that automatically builds the executable and libraries from source code which was originally created by Stuart Feldman in 1997 at Bell Labs?
+## What does GPS stand for?
 
 ---
 
-# Which company developed the IRIX computer operating system?
+# What year was Netscape Navigator released?
 
 ---
 
-# What is the latest Android OS name? Bonus: And the latest version number?
+# The LEGO set titled “Women in Space” is dedicated to famous women who have contributed to space travel. Can you name them?
+![inline fit](lego-women-nasa-redacted.jpg)
 
 ---
 
-# What's next? 9162 – 1629 – 6291 – XXXX
+# In Star Wars Han Solo infamously did the Kessel Run in 12 parsecs. How long is a parsec?
+1. 2.45 light years
+2. 3.26 light years
+3. 4.78 light years
 
 ---
 
-# When was Nintendo established and what did they make?
+# In what year did Edmund Hilary and Tenzing Norgay reach the summit of Everest for the first time?
 
 ---
 
-# A crystal anniversary celebrates how many years?
+# What project won The Nobel Prize in Physics 2017? (Bonus 2pts for the full name)
 
 
 

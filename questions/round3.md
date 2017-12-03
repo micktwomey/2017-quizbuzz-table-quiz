@@ -4,43 +4,43 @@ theme: Zurich, 4
 
 ---
 
-# What is Homer Simpson's brother's name?
+# What movie does the following quote come from "Gentlemen, you can't fight in here. This is the War Room!"?
 
 ---
 
-# True or false? DNA is an abbreviation for ‘Deoxyribonucleic acid’.
+## Which film star is credited with inventing a frequency hopping solution to torpedo jamming in WWII, which is now critical to wireless communications?
 
 ---
 
-# What does the TweetPee do?
+# Teforia is an IoT “Tea infusion device” aiming to “elevate the tea experience”. How much did it cost before the company’s shutdown?
 
 ---
 
-# Who is Mr. Spock's father?
+# 1024 Gigabytes is equal to one what?
 
 ---
 
-# How Long did it take Mark Rittman to make a cup of tea with his new IoT kettle?
+# In our solar system which two planets rotate clockwise?
 
 ---
 
-# Complete this line: "Never gonna give you up, "
+# Nintendo is a consumer electronics and video game company founded in what country?
 
 ---
 
-# What science fiction writer wrote the three laws of robotics?
+# CERN launched the very first website in what year?
 
 ---
 
-## Gordon Moore, Vinton Cerf and Robert Khan have previously received the US Presidential Medal of Freedom for their contributions to computing. Can you name the two recipients this year?
+## What is name of the world’s largest and most powerful particle accelerator?
 
 ---
 
-# Why is Ben Affleck sad?
+# What is the name given to an ancient analog computer that was discovered by divers off a Greek island in 1900?
 
 ---
 
-## The space probe Cassini started sending back pictures of Saturn. What is notable about the cloud formation at the north pole of Saturn?
+## The first person shooter video game Doom was first released in what year?
 
 
 
